@@ -6,4 +6,4 @@ Comment=Visualiza los canales de TV desde tu PC.
 Exec=tvtocktod
 Icon=tvtocktod
 Type=Application
-Categories=chrome;tv;video;AudioPlayer;Player;
+Categories=AudioPlayer;Player;Network;
