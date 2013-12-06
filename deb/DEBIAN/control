@@ -1,0 +1,12 @@
+Package: tvtocktod
+Source: tvtocktod
+Priority: optional
+Installed-Size: 437
+Section: chrome
+Architecture: all
+Depends: google-chrome-stable
+Version: 1.03
+Maintainer: Jonathan Delgado Z <jonad.correo@gmail.com>
+Conflicts: tvtocktod
+Replaces: tvtocktod
+Description: tv usando chrome
