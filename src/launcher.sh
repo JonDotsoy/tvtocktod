@@ -36,9 +36,9 @@ esac
 
 if [ !-z $canal ]
 	then
-	google-chrome --app=chrome-extension://ijdncbaekoleeeddhkbnoihmmlfalmkb/popup.html
+	google-chrome --app=chrome-extension://phimhnckkaofkllcoledjilakgbeohli/popup.html
 	exit
 fi
 
-google-chrome --app="chrome-extension://ijdncbaekoleeeddhkbnoihmmlfalmkb/canal/ver.html#$canal"
+google-chrome --app="chrome-extension://phimhnckkaofkllcoledjilakgbeohli/canal/ver.html#$canal"
 
