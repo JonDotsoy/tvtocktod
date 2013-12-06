@@ -6,7 +6,7 @@ Installed-Size: 437
 Section: chrome
 Architecture: all
 Depends: google-chrome-stable
-Version: 1.05
+Version: 1.06
 Maintainer: Jonathan Delgado Z <jonad.correo@gmail.com>
 Conflicts: tvtocktod
 Replaces: tvtocktod
