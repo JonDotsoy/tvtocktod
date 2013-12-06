@@ -34,5 +34,11 @@ case $* in
 	13) canal=$c13 ;;
 esac
 
+if [ !-z $canal ]
+	then
+	google-chrome --app=chrome-extension://ijdncbaekoleeeddhkbnoihmmlfalmkb/popup.html
+	exit
+fi
+
 google-chrome --app="chrome-extension://ijdncbaekoleeeddhkbnoihmmlfalmkb/canal/ver.html#$canal"
 
