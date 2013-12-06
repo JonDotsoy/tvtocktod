@@ -7,3 +7,10 @@ Esta aplicación te permite acceder a los canales en linea sin la necesidad de i
 
 Requerimientos
 --------------
+
+ - google-chrome-stable
+
+ Ejemplo
+ -------
+
+![img03](https://raw.github.com/alfa30/tvtocktod/master/img/03.png)
