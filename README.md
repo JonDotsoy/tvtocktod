@@ -10,7 +10,7 @@ Requerimientos
 
  - google-chrome-stable
 
- Ejemplo
- -------
+Ejemplo
+-------
 
 ![img03](https://raw.github.com/alfa30/tvtocktod/master/img/03.png)
